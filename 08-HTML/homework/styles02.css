@@ -1,0 +1,31 @@
+#thirdDiv{
+    tab-size: 500px;
+    width: 1184px;
+    height: 450px;
+    align-items: center;
+    background-color: brown;
+    padding: 50px;
+    border: blue;
+    border-width: medium;
+
+   }
+#spanId{
+     font-size: 30px;
+     margin: 10px;
+   }
+.divClass{
+    background-color: aliceblue;
+}
+.divClass02{
+    background-color: aqua;
+}
+.divClass03{
+    background-color: aqua;
+    tab-size: 100px;
+    align-self: flex-end;
+}
+#cabecera{
+    background-color: darkorange;
+    text-align: center;
+    padding: 5px;
+}
